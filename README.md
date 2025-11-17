@@ -18,7 +18,7 @@ Currently focused on mastering the MERN stack and improving my practical dev ski
 
 <hr>
 
-## Tools & Tech I Know and 
+## Tools & Tech I Know and Use
 
   
 <p align="left">
@@ -26,13 +26,13 @@ Currently focused on mastering the MERN stack and improving my practical dev ski
 </p>
 <hr>
 
-## A Bit About Me
+## A Bit About Me 
 
-- 🔧 Into electronics — love tinkering and small hardware builds  
-- 🎮 Minecraft enjoyer  
-- 📺 Anime fan (Demon Slayer + many more)  
 - 🎓 Final-year **BScIT student**  
 - 🚀 Long-term goal: grow into **DevOps & Cloud Engineering**  
+- 🔧 Into electronics — Not an expert but have small hobby to do tinkering 
+- 🎮 Minecraft bedwars and survival enjoyer 
+- 📺 Anime watcher have seen all the big 3 and 100+ more
 
 <hr>
 
@@ -48,7 +48,5 @@ Currently focused on mastering the MERN stack and improving my practical dev ski
   <a href="https://discord.com/users/suraj_dobar" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:surajdobar50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  
 </p>
