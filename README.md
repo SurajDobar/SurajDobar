@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**SurajDobar/SurajDobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Suraj, an aspiring full-stack developer based in Mumbai.  
+I learn best by building things from scratch — if an idea hits, I turn it into code.  
+Currently focused on mastering the MERN stack and improving my practical dev skills.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+
+- <a href='https://github.com/SurajDobar/infinite_page_loader'>**Infinite Page Loader**</a> — Responsive infinite-scroll UI using Intersection Observer API
+
+- <a href='https://github.com/SurajDobar/dictionary-app'> **Interactive Dictionary**</a> — Minimal dictionary app fetching definitions, phonetics & audio
+
+- **AuthMint** — A blockchain-powered certificate verification dApp  
+  *Final-year project — currently in development*
+
+<hr>
+
+## Tools & Tech I Know and 
+
+  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git,github,vscode,postman" height="40" />
+</p>
+<hr>
+
+## A Bit About Me
+
+- 🔧 Into electronics — love tinkering and small hardware builds  
+- 🎮 Minecraft enjoyer  
+- 📺 Anime fan (Demon Slayer + many more)  
+- 🎓 Final-year **BScIT student**  
+- 🚀 Long-term goal: grow into **DevOps & Cloud Engineering**  
+
+<hr>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/suraj-dobar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SurajDobar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/suraj_dobar" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:surajdobar50@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
