@@ -1,40 +1,57 @@
 # Hey there 👋
 
-I'm Suraj, an aspiring full-stack developer based in Mumbai.  
-I learn best by building things from scratch — if an idea hits, I turn it into code.  
-Currently focused on mastering the MERN stack and improving my practical dev skills.
+I'm Suraj, a full-stack developer based in Mumbai, India.
 
-<hr>
+I enjoy building things from scratch and learning by actually shipping them.  
+Currently focused on **React on the frontend and Python/Django on the backend**, with an emphasis on building better APIs and understanding backend development more deeply.
+
+---
+
+## What I'm Working With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,react,javascript,typescript,tailwind,mysql,git,github,docker,linux" height="40" />
+</p>
+
+**Frontend:** React, JavaScript, TypeScript, Tailwind CSS  
+**Backend:** Python, Django, Django REST Framework, REST APIs  
+**Database:** SQL  
+**Tools:** Git, GitHub, Docker, Linux
+
+---
 
 ## Projects
 
+- <a href="https://github.com/SurajDobar/infinite_page_loader"><b>Infinite Page Loader</b></a>  
+  Responsive infinite-scroll application using the Reddit API, Intersection Observer, and dynamic content rendering.
 
-- <a href='https://github.com/SurajDobar/infinite_page_loader'>**Infinite Page Loader**</a> — Responsive infinite-scroll UI using Intersection Observer API
+- <a href="https://github.com/SurajDobar/dictionary-app"><b>Interactive Dictionary</b></a>  
+  Minimal dictionary application fetching definitions, phonetics, and audio through an external API.
 
-- <a href='https://github.com/SurajDobar/dictionary-app'> **Interactive Dictionary**</a> — Minimal dictionary app fetching definitions, phonetics & audio
+- <b>AuthMint</b>  
+  Blockchain-based certificate verification dApp built with React and Solidity, with smart contracts deployed on the Ethereum Sepolia testnet.
 
-- **AuthMint** — A blockchain-powered certificate verification dApp  
-  *Final-year project — currently in development*
+---
 
-<hr>
+## Currently Learning
 
-## Tools & Tech I Know and Use
+- 🐍 Django & Django REST Framework
+- 🗄️ Backend architecture & SQL
+- 🔐 Authentication, permissions & API security
+- ⚛️ React + API integration
+- 🐳 Docker & deployment
 
-  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git,github,vscode,postman" height="40" />
-</p>
-<hr>
+---
 
-## A Bit About Me 
+## A Bit About Me
 
-- 🎓 Final-year **BScIT student**  
-- 🚀 Long-term goal: grow into **DevOps & Cloud Engineering**  
-- 🔧 Into electronics — Not an expert but have small hobby to do tinkering 
-- 🎮 Minecraft bedwars and survival enjoyer 
-- 📺 Anime watcher have seen all the big 3 and 100+ more
+- 🎓 B.Sc. Information Technology graduate
+- 💻 Interested in full-stack and backend development
+- 🔧 I like tinkering with electronics and random hardware projects
+- 🎮 Minecraft enjoyer
+- 📺 Anime watcher
 
-<hr>
+---
 
 ## Connect With Me
 
@@ -43,10 +60,9 @@ Currently focused on mastering the MERN stack and improving my practical dev ski
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/SurajDobar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://discordapp.com/users/874586273204039750" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  
 </p>
