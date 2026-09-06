@@ -21,26 +21,34 @@ Currently focused on **React on the frontend and Python/Django on the backend**,
 ---
 
 ## Projects
+* <a href="https://github.com/SurajDobar/koozy"><b>Koozy</b></a>  
+  Real-time multiplayer quiz platform for creating, hosting, and playing interactive quizzes with live sessions, WebSockets, and instant results.
 
-- <a href="https://github.com/SurajDobar/infinite_page_loader"><b>Infinite Page Loader</b></a>  
+* <a href="https://flwo.netlify.app/"><b>flwo</b></a>
+  College project — a retro-style web-based party game built with React, React Router, and Tailwind CSS.
+
+* <a href="https://github.com/SurajDobar/infinite_page_loader"><b>Infinite Page Loader</b></a>
   Responsive infinite-scroll application using the Reddit API, Intersection Observer, and dynamic content rendering.
 
-- <a href="https://github.com/SurajDobar/dictionary-app"><b>Interactive Dictionary</b></a>  
+* <a href="https://github.com/SurajDobar/dictionary-app"><b>Interactive Dictionary</b></a>
   Minimal dictionary application fetching definitions, phonetics, and audio through an external API.
 
-- <b>AuthMint</b>  
+* <a href="https://github.com/SurajDobar/AuthMint"> <b>AuthMint</b></a>
   Blockchain-based certificate verification dApp built with React and Solidity, with smart contracts deployed on the Ethereum Sepolia testnet.
 
 ---
 
-## Currently Learning
+## What I Like Building
 
-- 🐍 Django & Django REST Framework
-- 🗄️ Backend architecture & SQL
-- 🔐 Authentication, permissions & API security
-- ⚛️ React + API integration
-- 🐳 Docker & deployment
+I enjoy building web applications that go beyond basic CRUD — from interactive React interfaces to backend APIs and real-time features.
 
+I'm particularly interested in:
+- ⚡ Interactive web apps
+- 🔌 APIs & backend systems
+- 🌐 Real-time / multiplayer apps
+- 🗄️ Database-driven projects
+- 🧩 Random ideas that turn into projects
+  
 ---
 
 ## A Bit About Me
